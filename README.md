@@ -1,2 +1,2 @@
 # Dijkstra
-邻接矩阵jkstra算法
+邻接矩阵模拟dijkstra算法
